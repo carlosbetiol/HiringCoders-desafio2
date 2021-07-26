@@ -1,3 +1,20 @@
+# Hiring Coders desafio 2
+
+## Detalhes de desenvolvimento:
+
+* Foi utilizado React com TypeScript e Styled Components.
+* No desenvolvimento foi utilizado axios para consumir uma api de testes usando o json-server, mas para fazer o deploy foi necessário convertar em leitura direta do arquivo json para popular os dados na tela.
+* Dados de produtos adicionados ao carrinho de compras ficam armazenados no localstorage do navegador.
+* Para adicionar ou remover produtos, alterar o arquivo server.json no /src/view/Home.
+
+Todas as ferramentas e passos importantes necessários para servir de guia de referencia está no documento [NOTES.md](NOTES.md).
+
+A página pode ser vista no link
+
+Abaixo detalhes de como rodar:
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

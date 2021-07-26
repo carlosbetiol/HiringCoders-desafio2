@@ -1,0 +1,33 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "photo": "https://www.wellife.com.br/media/catalog/product/cache/325b9de722e0849b97496c9492c8317f/l/a/laranja.jpg",
+      "name": "Wellife Oleo Essencial Laranja Doce",
+      "description": "Um óleo essencial cítrico e delicado. Elimina o estresse e é um relaxante muscular leve, aumenta a disposição e criatividade.",
+      "price": 43.90
+    },
+    {
+      "id": 2,
+      "photo": "https://www.wellife.com.br/media/catalog/product/cache/325b9de722e0849b97496c9492c8317f/l/i/limao.jpg",
+      "name": "Wellife Oleo Essencial Limao Siciliano",
+      "description": "com seu aroma cítrico, agudo e seco, auxilia a mantermos mente sã em corpo são. Ele focaliza nossa atenção, mantém-nos despertas e atentas.",
+      "price": 47.90
+    },
+    {
+      "id": 3,
+      "photo": "https://www.wellife.com.br/media/catalog/product/cache/325b9de722e0849b97496c9492c8317f/l/a/lavanda.jpg",
+      "name": "Wellife Oleo Essencial Lavanda",
+      "description": "Óleo essencial de lavanda é o mais conhecido dos óleos, isso se deve aos benefícios que ele proporciona. É o óleo essencial mais usado na aromaterapia.",
+      "price": 47.90
+    },
+    {
+      "id": 4,
+      "photo": "https://www.wellife.com.br/media/catalog/product/cache/325b9de722e0849b97496c9492c8317f/h/o/hortela.jpg",
+      "name": "Wellife Oleo Essencial Hortela Pimenta",
+      "description": "O óleo essencial de hortelã-pimenta é estimulante, purificante e revigorante do corpo, da mente e do espírito.",
+      "price": 49.90
+    }
+    
+  ]
+}
