@@ -1,5 +1,7 @@
 # Hiring Coders desafio 2
 
+[Mensagem para Gama Academy, clique aqui.](MSGTOGAMA.md)
+
 ## Detalhes de desenvolvimento:
 
 * Foi utilizado React com TypeScript e Styled Components.
